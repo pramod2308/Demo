@@ -2,5 +2,4 @@ Test application
 Fino Payments Bank Ltd
 
 
-Nadi ko Mast Leta hu
-
+Billpay Recharge
